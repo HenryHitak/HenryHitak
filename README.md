@@ -1,5 +1,5 @@
 ### Hi there 👋 Please ask me anything
-<img src="https://github.com/HenryHitak/HenryHitak/blob/output/github-contribution-grid-snake.svg"/>
+  ![Snake animation](https://github.com/HenryHitak/HenryHitak/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
