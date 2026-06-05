@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I don't live in one place
 -->
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
+  
 uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
