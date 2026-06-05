@@ -1,5 +1,5 @@
 ### Hi there 👋 Please ask me anything
-<img src="https://github.com/{HenryHitak}/{HenryHitak}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/HenryHitak/HenryHitak/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <!--
