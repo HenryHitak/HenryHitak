@@ -1,4 +1,6 @@
 ### Hi there 👋 Please ask me anything
+![Snake animation](HenryHitak)
+
 
 <!--
 **HenryHitak/HenryHitak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
